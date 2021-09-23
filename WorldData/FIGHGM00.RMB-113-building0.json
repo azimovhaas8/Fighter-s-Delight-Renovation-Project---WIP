@@ -17,23 +17,23 @@
             },
             "Block3dObjectRecords": [
                 {
-                    "ModelId": "41209",
-                    "ModelIdNum": 41209,
-                    "ObjectType": 4,
-                    "XPos": -275,
-                    "YPos": -8,
-                    "ZPos": 52,
-                    "XRotation": 0,
-                    "YRotation": 0,
-                    "ZRotation": 0
-                },
-                {
                     "ModelId": "300",
                     "ModelIdNum": 300,
                     "ObjectType": 4,
                     "XPos": 0,
                     "YPos": 0,
                     "ZPos": 0,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41209",
+                    "ModelIdNum": 41209,
+                    "ObjectType": 4,
+                    "XPos": -275,
+                    "YPos": -8,
+                    "ZPos": 52,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
