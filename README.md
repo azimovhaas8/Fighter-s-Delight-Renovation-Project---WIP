@@ -1,9 +1,9 @@
 # Warriors-Delight-Renovation-Project-WIP
 
-Rework of existing buildings related to warriors of Illiac Bay.
+Rework of existing buildings related to warriors of Illiac Bay (Fighter Guilds & Knightly Orders).
 
-(All 7 blocks containing Fighter Guild building are done [excluding unused blocks]).
+(All Fighter Guilds building are done [excluding unused blocks]).
 
-(Added reworked block with Knightly Order building from Lainlyn [city of Syrius]).
+(All Knightly Orders building are done [excluding unused blocks]).
 
 [To install a WIP mod]: drag WorldData folder to your Streaming Assets directory (\DaggerfallUnity_Data\StreamingAssets\WorldData).
