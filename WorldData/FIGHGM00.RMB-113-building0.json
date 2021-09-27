@@ -73,7 +73,7 @@
                 },
                 {
                     "Position": 0,
-                    "XPos": 68,
+                    "XPos": 38,
                     "YPos": -45,
                     "ZPos": -199,
                     "TextureArchive": 210,
@@ -83,7 +83,7 @@
                 },
                 {
                     "Position": 0,
-                    "XPos": 138,
+                    "XPos": 152,
                     "YPos": -45,
                     "ZPos": -199,
                     "TextureArchive": 210,
@@ -491,7 +491,7 @@
                     "XPos": -124,
                     "YPos": 0,
                     "ZPos": -128,
-                    "XScale": 0.6999991,
+                    "XScale": 0.699999,
                     "YScale": 0.7999985,
                     "ZScale": 0.2101615,
                     "XRotation": -1536,
@@ -792,7 +792,7 @@
                     "YPos": 3,
                     "ZPos": -11,
                     "XScale": 0.7,
-                    "YScale": 0.6999984,
+                    "YScale": 0.6999983,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -846,7 +846,7 @@
                     "YPos": 0,
                     "ZPos": 111,
                     "XScale": 0.7,
-                    "YScale": 0.699998,
+                    "YScale": 0.6999979,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -1005,7 +1005,7 @@
                     "XPos": -22,
                     "YPos": 0,
                     "ZPos": -128,
-                    "XScale": 0.6999991,
+                    "XScale": 0.699999,
                     "YScale": 0.7999985,
                     "ZScale": 0.2101615,
                     "XRotation": -1536,
@@ -1120,7 +1120,7 @@
                     "YPos": 132,
                     "ZPos": 133,
                     "XScale": 0.42,
-                    "YScale": 0.7499983,
+                    "YScale": 0.7499982,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0

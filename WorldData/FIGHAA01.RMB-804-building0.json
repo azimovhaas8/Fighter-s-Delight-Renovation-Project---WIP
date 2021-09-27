@@ -65,7 +65,7 @@
                 {
                     "Position": 0,
                     "XPos": 142,
-                    "YPos": -45,
+                    "YPos": -127,
                     "ZPos": -199,
                     "TextureArchive": 210,
                     "TextureRecord": 18,
@@ -74,8 +74,8 @@
                 },
                 {
                     "Position": 0,
-                    "XPos": 65,
-                    "YPos": -45,
+                    "XPos": 58,
+                    "YPos": -127,
                     "ZPos": -199,
                     "TextureArchive": 210,
                     "TextureRecord": 18,
@@ -94,7 +94,7 @@
                 },
                 {
                     "Position": 0,
-                    "XPos": -116,
+                    "XPos": -87,
                     "YPos": -89,
                     "ZPos": -199,
                     "TextureArchive": 210,
@@ -104,7 +104,7 @@
                 },
                 {
                     "Position": 0,
-                    "XPos": -11,
+                    "XPos": -20,
                     "YPos": -89,
                     "ZPos": -198,
                     "TextureArchive": 210,
@@ -513,7 +513,7 @@
                     "YPos": 0,
                     "ZPos": -128,
                     "XScale": 0.6999989,
-                    "YScale": 0.7999981,
+                    "YScale": 0.799998,
                     "ZScale": 0.2101615,
                     "XRotation": -1536,
                     "YRotation": -512,
@@ -813,7 +813,7 @@
                     "YPos": 3,
                     "ZPos": -11,
                     "XScale": 0.7,
-                    "YScale": 0.6999978,
+                    "YScale": 0.6999977,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -867,7 +867,7 @@
                     "YPos": 0,
                     "ZPos": 111,
                     "XScale": 0.7,
-                    "YScale": 0.6999974,
+                    "YScale": 0.6999973,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -1027,7 +1027,7 @@
                     "YPos": 0,
                     "ZPos": -128,
                     "XScale": 0.6999989,
-                    "YScale": 0.7999981,
+                    "YScale": 0.799998,
                     "ZScale": 0.2101615,
                     "XRotation": -1536,
                     "YRotation": -512,
@@ -1141,7 +1141,7 @@
                     "YPos": 132,
                     "ZPos": 133,
                     "XScale": 0.42,
-                    "YScale": 0.7499977,
+                    "YScale": 0.7499976,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0

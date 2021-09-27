@@ -64,7 +64,7 @@
             "BlockFlatObjectRecords": [
                 {
                     "Position": 0,
-                    "XPos": -138,
+                    "XPos": -150,
                     "YPos": -45,
                     "ZPos": 199,
                     "TextureArchive": 210,
@@ -74,7 +74,7 @@
                 },
                 {
                     "Position": 0,
-                    "XPos": -66,
+                    "XPos": -45,
                     "YPos": -45,
                     "ZPos": 199,
                     "TextureArchive": 210,
@@ -493,7 +493,7 @@
                     "YPos": 0,
                     "ZPos": -128,
                     "XScale": 0.6999989,
-                    "YScale": 0.799998,
+                    "YScale": 0.7999978,
                     "ZScale": 0.2101615,
                     "XRotation": -1536,
                     "YRotation": -512,
@@ -793,7 +793,7 @@
                     "YPos": 3,
                     "ZPos": -11,
                     "XScale": 0.7,
-                    "YScale": 0.6999977,
+                    "YScale": 0.6999975,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -847,7 +847,7 @@
                     "YPos": 0,
                     "ZPos": 111,
                     "XScale": 0.7,
-                    "YScale": 0.6999973,
+                    "YScale": 0.6999971,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -1007,7 +1007,7 @@
                     "YPos": 0,
                     "ZPos": -128,
                     "XScale": 0.6999989,
-                    "YScale": 0.799998,
+                    "YScale": 0.7999978,
                     "ZScale": 0.2101615,
                     "XRotation": -1536,
                     "YRotation": -512,
@@ -1121,7 +1121,7 @@
                     "YPos": 132,
                     "ZPos": 133,
                     "XScale": 0.42,
-                    "YScale": 0.7499976,
+                    "YScale": 0.7499974,
                     "XRotation": -1536,
                     "YRotation": 0,
                     "ZRotation": 0
