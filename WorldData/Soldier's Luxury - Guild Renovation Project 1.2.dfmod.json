@@ -1,0 +1,44 @@
+{
+    "ModTitle": "Soldier's Luxury (Guild Renovation Project)",
+    "ModVersion": "1.2",
+    "ModAuthor": "azimovhaas8",
+    "ContactInfo": "AzimovYuri88 (NexusMods)",
+    "DFUnity_Version": "0.13.5",
+    "ModDescription": "Visual overhaul of all Knightly Orders and Fighter Guilds in the World of Daggerfall.",
+    "GUID": "2b97101b-495f-486d-880c-edf436a12efb",
+    "Files": [
+        "Assets/Game/Mods/Soldier's Luxury/FIGHAA00.RMB-672-building16.json",
+        "Assets/Game/Mods/Soldier's Luxury/KCANBL00.RMB-714-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/FIGHBM00.RMB-705-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/FIGHGL00.RMB-106-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/KFLAAL00.RMB-791-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/FIGHAA02.RMB-676-building11.json",
+        "Assets/Game/Mods/Soldier's Luxury/FIGHBL00.RMB-677-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/KDRAAL00.RMB-379-building15.json",
+        "Assets/Game/Mods/Soldier's Luxury/KDRAAL01.RMB-275-building14.json",
+        "Assets/Game/Mods/Soldier's Luxury/KFLAAL01.RMB-606-building16.json",
+        "Assets/Game/Mods/Soldier's Luxury/KCANGL00.RMB-123-building7.json",
+        "Assets/Game/Mods/Soldier's Luxury/FIGHGM00.RMB-113-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/FIGHAA01.RMB-804-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/KRAVAL00.RMB-802-building18.json",
+        "Assets/Game/Mods/Soldier's Luxury/KROSAL01.RMB-596-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/Soldier's Luxury - Guild Renovation Project 1.2.dfmod.json",
+        "Assets/Game/Mods/Soldier's Luxury/KSCAAL01.RMB-412-building19.json",
+        "Assets/Game/Mods/Soldier's Luxury/KWHEGL00.RMB-47-building15.json",
+        "Assets/Game/Mods/Soldier's Luxury/KHORAL00.RMB-781-building16.json",
+        "Assets/Game/Mods/Soldier's Luxury/KOWLAL00.RMB-808-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/KHAWBL00.RMB-499-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/KOWLAL01.RMB-809-building17.json",
+        "Assets/Game/Mods/Soldier's Luxury/KROSAL00.RMB-810-building18.json",
+        "Assets/Game/Mods/Soldier's Luxury/KRAVAL01.RMB-472-building2.json",
+        "Assets/Game/Mods/Soldier's Luxury/KHORAL01.RMB-862-building0.json",
+        "Assets/Game/Mods/Soldier's Luxury/KSCAAL00.RMB-473-building0.json"
+    ],
+    "Dependencies": [
+        {
+            "Name": "daggerfall expanded textures",
+            "IsOptional": false,
+            "IsPeer": false
+        }
+    ]
+}
